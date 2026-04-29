@@ -51,7 +51,7 @@ No dependencies what so ever!
 No other mods needed for this!
 
 # Devlog
-## v1.0 - Now created in April 29, 2026!
+## Alpha v1.0 - Now created in April 29, 2026!
 Placed 5 new sound effects for this Resource Pack as the core identity of this Pack.
 
 • AUGHHHH AUGHHHH  
@@ -59,10 +59,11 @@ Placed 5 new sound effects for this Resource Pack as the core identity of this P
 • Loud meme snoring sound effect  
 • Mario sleeping  
 • Idk this last part
-## v1.1 - Best update to my Resource Pack ever
+## Alpha v1.1 - Best update to my Resource Pack ever
 Deleted that last strangely weird stuff sound effect  
-Added the sound for players too!
-## v1.2 - In the future...
+Added the sound for players too!  
+Fixed problem about villagers can't be heard sleeping with the snoring resource pack in 1.21.11 *(maybe even in my 26.1.2 instance too..)* Because it's in alpha stage
+## Beta v1.2 - In the future...
 _soon..._
 
 [MIT License](https://github.com/rabbiarlan/Villager-Meme-Sounds/tree/main?tab=MIT-1-ov-file#)
