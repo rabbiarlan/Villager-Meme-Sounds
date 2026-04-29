@@ -59,7 +59,7 @@ Placed 5 new sound effects for this Resource Pack as the core identity of this P
 • Loud meme snoring sound effect  
 • Mario sleeping  
 • Idk this last part
-## v1.1 - Strangely weird stuff removed
+## v1.1 - Best update to my Resource Pack ever
 Deleted that last strangely weird stuff sound effect  
 Added the sound for players too!
 ## v1.2 - In the future...
