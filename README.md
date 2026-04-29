@@ -61,4 +61,4 @@ Deleted that last weird sound effect
 ## v1.2 - In the future...
 _soon..._
 
-[MIT License](https://github.com/rabbiarlan/Villager-Meme-Sounds/tree/main?tab=MIT-1-ov-file)
+[MIT License](https://github.com/rabbiarlan/Villager-Meme-Sounds/tree/main?tab=MIT-1-ov-file#)
