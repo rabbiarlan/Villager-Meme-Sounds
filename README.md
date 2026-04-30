@@ -1,70 +1,45 @@
-# This Villager-Meme-Sounds project adds **5 brand new sound effects** to villagers only!
+# Villager Snoring Meme Sound Effects 💤
+by Rabbi S. Arlan
 
-Sorry it can't support and add players sleeping...  
-_(we'll update this modpack to support it in the very next version.. trust me🥰️🥹️)_
+Adds **5 meme snoring sounds** to villagers AND players sleeping at night in Minecraft Java Edition.
 
-![Random Image that i have no clue why](https://cdn.modrinth.com/data/cached_images/53b113259d73cb7d56b77db7b7ace4c7166ff19d_0.webp)
+## Sounds
+| File | Description |
+|---|---|
+| snore1.ogg | AUGHHHH AUGHH |
+| snore2.ogg | Mimimimimimimimi |
+| snore3.ogg | Loud meme snoring lmao |
+| snore4.ogg | Mario sleeping "Spaghetti.. Ravioli.." |
+| snore5.ogg | Let's not talk about it 🙂🙏 |
 
-### Here are examples:
+## Install (v1.2-alpha+)
+Hybrid datapack + resource pack — **one ZIP file**:
+1. Drop `.zip` into `[world]/datapacks/`
+2. Run `/reload`
+3. Accept resource pack prompt
+4. Go find a village at night 💀
 
-1. snore1.ogg - **AUGHHHH AUGHH**
-2. snore2.ogg - *Mimimimimimimimi*
-3. snore3.ogg - Loud snoring sound lmao
-4. snore4.ogg - Mario sleeping and saying *"Spagetti.. Ravioli.."*
-5. Let's not talk about the last one.🙂️Son🙏️
+## Versions
+**1.21 → 26.1.2** and beyond • Java Edition only
 
-## Beware! All of these is only for `Minecraft Java 1.21 to 26.1.2` and other snapshot versions are included.
-## For MINECRAFT JAVA EDITION ONLY for people who come here to check the open-source code!
+## Devlog
+### Alpha v1.0 — April 29, 2026
+- 5 meme snore sounds for villagers only
 
-Legit Actual Supported Versions:
+### Alpha v1.1 — April 29, 2026
+- Added player snoring support
+- Attempted datapack (had bugs)
 
-1. 26.1.2    *(don't worry if the Resource Pack said it's incompatible, just*
-2. 26.1.1     *ignore the message as this resource pack is still compatible)*
-3. 26.1
-4. 1.21.11
-5. 1.21.10
-6. 1.21.9
-7. 1.21.8
-8. 1.21.7
-9. 1.21.6
-10. 1.21.5
-11. 1.21.4
-12. 24w46a
-13. 24w45a
-14. 24w44a
-15. 1.21.3
-16. 1.21.2
-17. 1.21.2-pre2
-18. 1.21.2-pre1
-19. 24w40a
-20. 24w39a
-21. 24w38a
-22. 24w37a
-23. 24w36a
-24. 24w35a
-25. 24w34a
-26. 24w33a
-15. 1.21.1
-21. 1.21
+### Alpha v1.2 — April 30, 2026
+- Fixed ALL datapack bugs (wrong pack.mcdata, wrong tag path, wrong villager detection)
+- Hybrid single ZIP (datapack + embedded resource pack)
+- 10-block hearing range with natural distance falloff
+- Pitch + volume variation pool (15 entries, 0.75–1.25 range)
+- Now uses your actual real OGG recordings
 
-No dependencies what so ever!
-No other mods needed for this!
+### Alpha v1.2_1 — April 30, 2026
+- Fixed invalid standalone parse error without execute commands
+- Every command is now a single line.
 
-# Devlog
-## Alpha v1.0 - Now created in April 29, 2026!
-Placed 5 new sound effects for this Resource Pack as the core identity of this Pack.
-
-• AUGHHHH AUGHHHH  
-• Mimimimimimimimimi  
-• Loud meme snoring sound effect  
-• Mario sleeping  
-• Idk this last part
-## Alpha v1.1 - Best update to my Resource Pack ever
-Deleted that last strangely weird stuff sound effect  
-Added the sound for players too!  
-Fixed problem about villagers can't be heard sleeping with the snoring resource pack in 1.21.11  
-*(maybe even in my 26.1.2 instance too..)* Because it's in alpha stage
-## Beta v1.2 - In the future...
-_soon..._
-
-[MIT License](https://github.com/rabbiarlan/Villager-Meme-Sounds/tree/main?tab=MIT-1-ov-file#)
+## License
+[MIT](LICENSE)
