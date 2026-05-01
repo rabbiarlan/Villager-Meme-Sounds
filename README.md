@@ -10,7 +10,7 @@ This project includes TWO separate files:
 - Resource Pack **(REQUIRED for sounds)**
 - Datapack **(ALSO REQUIRED for it to work)**
 
-> 👉 You NEED the Resource Pack for ANY sound to work.
+> 👉 You NEED the Resource Pack for ANY sound to work.  
 > 👉 The Datapack adds continuous snoring + player snoring.
 ### 💡 For the full experience install BOTH.
 
@@ -95,21 +95,20 @@ This pack comes as **two separate ZIP files**. You need **both** for the full ex
 
 | Problem | Fix |
 |---|---|
-| No sound at all | Check that the Resource Pack is in the **Selected (right) column** and at the **very top** |
+| No sound at all | Check that the Resource Pack is in the **Selected (right) column** and at the **very top** *(if you have Resource Packs that tells you to set it top first they're lying to you)* than in the **Available (left) column** |
 | Resource pack conflict | Move Villager Snoring to the **very top** of selected packs |
 | Gold message didn't appear on `/reload` | Double-check the `Villager_Snoring_..._DATAPACK.zip` is inside `saves/[world]/datapacks/` not `resourcepacks/` |
-| Villagers not snoring | Make sure they're fully lying down in beds, not just standing near them |
-| Only snores once per night | Install the Datapack too — the RP alone only triggers once when lying down |
+| Villagers not snoring | Make sure they're fully lying down in beds, not just standing near them or you installed the Datapack and Resource Pack properly |
 
 ---
 
 > *Made for the glory of God and the suffering of every villager trying to sleep in peace... 😭🥹🙏*
 >
 > ## ⚠️ Still in *Alpha Development Stage!* Bugs may exist. ⚠️
-> 
+>
 > 🗣️📢‼️ Report them in the *Issues* Tab on the Repository!
 >
-> Make it very detailed — **when, where, what, why, how, and who** — so we can mercilessly annihilate the issue to the shadow realm with no remorse and no problem. Simple reports like *"It doesn't work when I sleep or when my slaves lie down in bed!!!👿️💢️😫️ May you pwease~~ fix it~~!!!👉️👈️🥺️ OwO"* still count, we'll figure it out together.
+> Make it very detailed — **when, where, what, why, how, and who** — so we can mercilessly annihilate the issue to the shadow realm with no remorse and no problem. Simple reports like *"It doesn't work when I sleep or when my slaves lie down in bed!!!👿️💢️😫️ May you pwease~~ fix it~~!!!👉️👈️🥺️ OwO"* and *"unsa man ning Minecraft Pack bro laina ani oi😫️🙏️ gubot na kaayo ayo lang ug tarong bai🗣️📢️🔥️‼️⚠️💯️🇵🇭️😫️"* still count, we'll figure it out together.
 
 ---
 
