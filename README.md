@@ -114,7 +114,7 @@ This pack comes as **two separate ZIP files**. You need **both** for the full ex
 - Now first time created this Resource Pack!
 - Placed 5 new sound effects as the core identity of this Resource Pack only!
 
-- List of `snore.ogg` sounds:
+**List of `snore.ogg` sounds:**
 - AUGHHHH AUGHHHH
 - Mimimimimimimimimi
 - Typical loud meme snoring sound effect
