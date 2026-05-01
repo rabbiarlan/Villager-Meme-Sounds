@@ -39,9 +39,10 @@ This pack comes as **two separate ZIP files**. You need **both** for the full ex
 | `..._RESOURCEPACK.zip` | Provides the actual snore audio files |
 | `..._DATAPACK.zip` | Makes villagers snore repeatedly + adds player snoring |
 
-> **⚠️ The Resource Pack alone gives villagers one snore when lying down.  
+> **⚠️ The Resource Pack alone gives villagers one snore when lying down.**  
 > The Datapack adds continuous snoring every 4 seconds and also makes YOUR character snore.   
-> Both together = full experience.**   
+> Both together = full experience.   
+
 > **💡 If something feels broken**   
 > 90% of the time it's because one of the files is missing or placed in the wrong folder.
 
