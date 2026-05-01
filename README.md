@@ -143,8 +143,8 @@ This pack comes as **two separate ZIP files**. You need **both** for the full ex
 
 ### Alpha v1.2_3 — May 1, 2026
 - Moved OGG files from `entity/villager/` → `custom/villager/` path inside the resource pack
-- Eliminates potential path collision with vanilla villager sounds folder (learned from Grox Villagers dissection)
-- Fixed Modrinth upload: DATAPACK.zip now correctly contains actual datapack logic files
+- Eliminates potential path collision with vanilla villager sounds folder (learned from dissecting [Grok Meme Villager](https://modrinth.com/resourcepack/grox-meme-villagers) Resource Pack)
+- Fixed Modrinth upload: DATAPACK.zip now correctly contains actual datapack logic files instead of duplicate
 
 ---
 
