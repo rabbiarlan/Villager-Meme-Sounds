@@ -1,4 +1,4 @@
-# Villager Snoring Meme Sound Effects 💤
+# 😪️😴️ Villager Snoring Meme Sound Effects 🫩️🥱️💤
 > by Rabbi S. Arlan • **Alpha Development Stage**
 
 Adds **5 unhinged meme snoring sounds** to villagers AND players when they sleep at night in Minecraft Java Edition 1.21.x to 26.x
