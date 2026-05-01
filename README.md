@@ -81,11 +81,10 @@ This pack comes as **two separate ZIP files**. You need **both** for the full ex
 | Only snores once per night | Install the Datapack too — the RP alone only triggers once per sleep |
 
 ---
-
-## Open Source
-[GitHub Repository](https://github.com/rabbiarlan/Villager-Meme-Sounds) • [MIT License](https://mit-license.org/)
-
+ 
 > *Made for the glory of God and the suffering of every villager trying to sleep in peace... 😭🥹🙏*
+>
+> ## ⚠️ Still in alpha! Bugs, problems and issues of this Hybrid Pack may exist. ⚠️
 
 ---
 
