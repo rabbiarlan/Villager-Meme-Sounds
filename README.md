@@ -1,9 +1,18 @@
 # Villager Snoring Meme Sound Effects 💤
 > by Rabbi S. Arlan • Alpha Stage
 
-Adds **5 unhinged meme snoring sounds** to villagers AND players when they sleep at night in Minecraft Java Edition.
+Adds **5 unhinged meme snoring sounds** to villagers AND players when they sleep at night in Minecraft Java Edition 1.21.x to 26.x
 
-> ⚠️ **This is a Minecraft Java Edition Datapack + Resource Pack. It does NOT work on Bedrock Edition. No mods or mod loaders required.**
+---
+
+## ⚠️ IMPORTANT:
+This project includes TWO seperate files:
+- Resource Pack **(REQUIRED for sounds)**   
+- Datapack **(OPTIONAL but highly recommended!)**
+
+> 👉 You NEED the Resource Pack for ANY sound to work.   
+> 👉 The Datapack adds continuous snoring + player snoring.
+### 💡 For the full experience, install BOTH.
 
 ![Pack Icon](https://cdn.modrinth.com/data/cached_images/53b113259d73cb7d56b77db7b7ace4c7166ff19d_0.webp)
 
@@ -17,7 +26,7 @@ Adds **5 unhinged meme snoring sounds** to villagers AND players when they sleep
 | 2 | snore2.ogg | Mimimimimimimimi |
 | 3 | snore3.ogg | Typical loud meme snoring lmao |
 | 4 | snore4.ogg | Mario sleeping *"Spaghetti.. Ravioli.."* |
-| 5 | snore5.ogg | Let's not talk about the last one 🙂🙏 |
+| 5 | snore5.ogg | Let's not talk about the last one 🥲️🙏son☠️🥀️ |
 
 ---
 
@@ -30,7 +39,11 @@ This pack comes as **two separate ZIP files**. You need **both** for the full ex
 | `..._RESOURCEPACK.zip` | Provides the actual snore audio files |
 | `..._DATAPACK.zip` | Makes villagers snore repeatedly + adds player snoring |
 
-> ⚠️ **The Resource Pack alone gives villagers one snore when lying down. The Datapack adds continuous snoring every 4 seconds and also makes YOUR character snore. Both together = full experience.**
+> **⚠️ The Resource Pack alone gives villagers one snore** *(if possible)* **when lying down.  
+> The Datapack adds continuous snoring every 4 seconds and also makes YOUR character** *(if also possible)* **snore.   
+> Both together = full experience.**   
+> **💡 If something feels broken**   
+> 90% of the time it's because one of the files is missing or placed in the wrong folder.
 
 ---
 
@@ -59,6 +72,12 @@ This pack comes as **two separate ZIP files**. You need **both** for the full ex
 - Stand within **10 blocks** of a sleeping villager
 - Make sure **Friendly Creatures** volume is at 100% in sound settings
 - Wait up to 4 seconds after villagers lie down
+
+> 🚫 **DO NOT MIX THEM UP:**
+> - Resource Pack → goes in Instance's `resourcepacks/`
+> - Datapack → goes in World's `datapacks/`
+> 
+> If you put them in the wrong folder, it will NOT work.
 
 ---
 
