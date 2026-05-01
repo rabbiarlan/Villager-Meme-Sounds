@@ -9,13 +9,13 @@ Adds **5 unhinged meme snoring sounds** to villagers AND players when they sleep
 
 ---
 
-## The 5 Sounds 🔊
+## The 5 Amazing Bountiful Unhinged Sounds 🔊
 
-| # | Sound | Description |
+| # | Sound | Description of what it sounds like |
 |---|---|---|
 | 1 | snore1.ogg | **AUGHHHH AUGHH** |
 | 2 | snore2.ogg | Mimimimimimimimi |
-| 3 | snore3.ogg | Loud meme snoring lmao |
+| 3 | snore3.ogg | Typical loud meme snoring lmao |
 | 4 | snore4.ogg | Mario sleeping *"Spaghetti.. Ravioli.."* |
 | 5 | snore5.ogg | Let's not talk about the last one 🙂🙏 |
 
@@ -91,23 +91,39 @@ This pack comes as **two separate ZIP files**. You need **both** for the full ex
 ## Devlog
 
 ### Alpha v1.0 — April 29, 2026
-- 5 meme snore sounds for villagers (resource pack only)
+- Now first time created this Resource Pack!
+- Placed 5 new sound effects as the core identity of this Resource Pack only!
+
+- List of `snore.ogg` sounds:
+- AUGHHHH AUGHHHH
+- Mimimimimimimimimi
+- Typical loud meme snoring sound effect
+- Mario sleeping
+- Idk bout this last part
+
+[Open-Source Code!](https://github.com/rabbiarlan/Villager-Meme-Sounds)
 
 ### Alpha v1.1 — April 29, 2026
-- First datapack attempt for player snoring (had critical bugs)
+- Added player snoring support
+- Attempted first datapack attempt for player snoring (had critical bugs)
 
 ### Alpha v1.2 — April 30, 2026
-- Fixed all datapack structure bugs
+- Changed the primary Resource Pack Platform to Datapack
+- Fixed ALL datapack bugs (wrong pack.mcdata, wrong tag path, wrong villager detection)
 - Hybrid single ZIP approach (datapack + embedded resource pack)
-- 10-block hearing range, pitch/volume variation pool (15 entries, 0.75–1.25)
+- 10-block hearing range with natural distance falloff, pitch/volume variation pool (15 entries, 0.75–1.25)
+- Now uses the actual real OGG recordings
 
 ### Alpha v1.2_1 — April 30, 2026
+- Fixed invalid standalone parse errors that has no execution type commands.
+- Every command is now a single line.
 - Fixed broken multi-line execute commands in `.mcfunction` (backslash continuations don't work)
 
 ### Alpha v1.2_2 — May 1, 2026
 - Fixed `SleepTimer:1s` → `SleepTimer:1` (wrong NBT type was breaking player snoring completely)
 - Separated into two ZIP files (resource pack + datapack) — more reliable than embedded approach
 - Improved install instructions
+- Changed the primary Data Pack Platform to include the Resource Pack as primary.
 
 ---
 
